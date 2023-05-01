@@ -1,0 +1,23 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+#restart{
+  text-align: center;
+}
+
+#restart button{
+  padding: 10px 20px;
+    background-color: #2596be;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 1em;
+    user-select: none;
+    cursor: pointer;
+    transition: .2s ease-in-out;
+}
